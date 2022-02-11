@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @123yash8
+- 👋 Hi, Y.R. Deshmukh
 - 👀 I’m interested in ... Just helping make your code better
 - 🌱 I’m currently learning ... Computer Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Python,HTML,C++ projects
 - 📫 How to reach me ... 
 insta @yashdeshmukh01_07_04
 
