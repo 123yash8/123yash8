@@ -1,0 +1,13 @@
+{
+    "url": "https://raw.githubusercontent.com/123yash8/123yash8/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/123yash8/123yash8/main/test.yaml",
+            "name": "Foo"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/123yash8/123yash8/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
