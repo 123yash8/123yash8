@@ -15,7 +15,7 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  <script>alert(123)</script>:
+  '<script>alert(123)</script>':
     get:
       responses:
         '200':
