@@ -19,7 +19,7 @@ paths:
     get:
       responses:
         '200':
-          description: No response was specified
+          description: <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
       tags:
         - accounts
       operationId: findAccounts
